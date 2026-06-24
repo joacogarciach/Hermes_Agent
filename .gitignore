@@ -9,6 +9,7 @@
 !README.md
 !SOUL.md
 !config.yaml
+!setup-*.sh
 !cron/
 !cron/*/
 !cron/*/*/
